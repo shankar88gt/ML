@@ -1,2 +1,7 @@
 # ML
-Basic algorithms Coded in Octave
+This repository has working code for all basic ML alogoriths. 
+the code also contains a pdf which explains what the project is and what it tries to accomplish. 
+
+Projects
+1) Linear regression - One variable and mutiple input variables with gradient decent optimization
+2) Logistic regression - linear seperation & polynominal seperation with regarlization. some extent of hyperpatermeter tuning
