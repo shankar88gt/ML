@@ -5,3 +5,4 @@ the code also contains a pdf which explains what the project is and what it trie
 Projects
 1) Linear regression - One variable and mutiple input variables with gradient decent optimization
 2) Logistic regression - linear seperation & polynominal seperation with regarlization. some extent of hyperpatermeter tuning
+3) Mutlicalss Logistic regression ( One vs ALL ) & Feedforward Neural Network
